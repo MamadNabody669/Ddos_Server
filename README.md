@@ -1,2 +1,34 @@
-# Ddos_Server
-Ddos For Server exp : Game Server 
+Run On Termux :
+
+git clone https://github.com/MamadNabody669/Ddos_Server
+
+pkg install python
+
+pip install colorama
+
+python connect.py
+
+----------------------------------------------------------------------
+
+Run On Windows Console :
+
+Step 1 => download and install python
+
+step 2 => open CMD Windows and Type Pip install colorama
+
+step 3 => Go to ddosServer Directory (cd "C:/-----"
+
+step 4 => python connect.py
+
+
+--------------------------------------------------------------------
+
+Coded By MamadNabody6 
+
+Telegram ID ==> @MamadNabody6
+
+Git Hub ==> https://github.com/MamadNabody669
+
+
+
+
